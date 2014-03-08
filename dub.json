@@ -1,7 +1,8 @@
 {
 	"name": "glimgr",
-	"description": "An app for optimizing GL image loading.",
-	"copyright": "Copyright © 2014, colde_000",
+	"description": "Converts images to raw OpenGL data.",
+	"license": "MIT",
+	"copyright": "Copyright © 2014, Colden Cullen, Brandon Littell",
 	"authors": [ "Colden Cullen", "Brandon Littell" ],
 	"dependencies": {
 		"derelict-fi": "~master"
